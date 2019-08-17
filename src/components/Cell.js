@@ -1,6 +1,4 @@
 import React from 'react';
-
-// Components
 import { TETROMINOS } from '../services/tetrominos';
 
 // Styled Components
