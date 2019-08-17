@@ -7,8 +7,7 @@ import StartButton from './StartButton';
 import {createStage} from '../services/gameHelpers';
 
 // Styled Components
-import { StyledTetrisWrapper } from './styles/StyledTetrisWrapper';
-import { StyledTetris } from './styles/StyledTetris';
+import { StyledTetrisWrapper, StyledTetris } from './styles/StyledTetris';
 
 const Tetris = () => {
   return (
